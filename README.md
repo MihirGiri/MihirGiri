@@ -5,7 +5,7 @@
 🌱 Currently learning: React.js, Node.js, MongoDB  
 📫 Reach me: mihirgiri2@gmail.com  
 🔗 Portfolio: https://mihirgiri.onrender.com  
-💼 LinkedIn: linkedin.com/in/mihir-giri
+💼 LinkedIn: [linkedin.com/in/mihir-giri](https://linkedin.com/in/mihir-giri)
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
