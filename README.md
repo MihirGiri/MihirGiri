@@ -76,4 +76,4 @@
 ## 📊 GitHub Stats
 
 
-![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihirGiri&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Mihir's GitHub Stats](https://github-readme-stats-rickstaa.vercel.app/api?username=MihirGiri&show_icons=true&theme=tokyonight)
