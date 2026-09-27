@@ -76,4 +76,4 @@
 ## 📊 GitHub Stats
 
 
-![Mihir's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MihirGiri&show_icons=true&theme=tokyonight)
+![Mihir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MihirGiri&show_icons=true&theme=tokyonight)
